@@ -37,7 +37,7 @@
     const message = ref("");
 
     const isLoading = ref(false);
-    const WEB3FORMS_ACCESS_KEY = "5191cd86-f004-4ddc-9702-3aec9234a49d";
+    const WEB3FORMS_ACCESS_KEY = "c1b6e2f5-890d-43da-ac37-271a096a038c";
 
     const subject = "New message from Portfolio Contact Form";
     const submitForm = async () => {
